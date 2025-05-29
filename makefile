@@ -21,5 +21,5 @@ ej3:
 	./ejercicio3
 
 clean:
-	rm -f ejercicio1 ejercicio2 ejercicio3
+	rm -f ejercicio1 ejercicio2 ejercicio3 vuelo.bin
 	rm -rf *.dSYM/
